@@ -168,12 +168,12 @@ https://colab.research.google.com/drive/1XgxJ_oZMMe57-SShAy3pR4pGju3ic3XZ
 
 ## 📦 Project Structure
 
-Airbnb-Booking-Analysis/
-│
-├── data/ # Dataset 
-├── airbnb_analysis.ipynb # Main analysis notebook
-├── README.md # Documentation
-└── visuals/ # Generated charts & plots
+Airbnb-Booking-Analysis/    
+│    
+├── data/ # Dataset      
+├── airbnb_analysis.ipynb # Main analysis notebook    
+├── README.md # Documentation           
+└── visuals/ # Generated charts & plots     
 
 
 ---
