@@ -168,3 +168,29 @@ https://colab.research.google.com/drive/1XgxJ_oZMMe57-SShAy3pR4pGju3ic3XZ
 
 ## 📦 Project Structure
 
+Airbnb-Booking-Analysis/
+│
+├── data/ # Dataset 
+├── airbnb_analysis.ipynb # Main analysis notebook
+├── README.md # Documentation
+└── visuals/ # Generated charts & plots
+
+
+---
+
+## 🚀 Future Enhancements
+
+- Build interactive dashboard (Power BI / Tableau)  
+- Implement machine learning model for price prediction  
+- Add geospatial heatmaps (Folium)  
+- Create automated reporting pipeline  
+
+---
+
+## 👤 Author
+
+**Aman Negi**  
+Data Analyst | Python | SQL | Power BI | EDA | Visualization  
+
+---
+
